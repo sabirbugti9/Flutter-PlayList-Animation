@@ -1,3 +1,4 @@
 # Flutter Playlist Animation
 
-Playlist Hero & Page Transition Animations inspired by [original SwiftUI implementation](https://twitter.com/_Kavsoft/status/1582065292360187904)
+
+https://user-images.githubusercontent.com/50345358/198117074-b6317fd3-1a98-4151-b179-415e19d24e7b.mp4
